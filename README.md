@@ -1,16 +1,10 @@
 # custom_theme_demo
 
-A new Flutter application.
+This project is a demostration of the theme management in Flutter
 
-## Getting Started
+## Check the complete tutorial on below link
 
-This project is a starting point for a Flutter application.
+- [Check the full tutorial Flutter Theme Creation, Programmatic Way ](https://www.nplix.com/flutter-theme-creation-programmatic-way/)
+- [Flutter Other Tutorial](https://www.nplix.com/category/flutter/)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
